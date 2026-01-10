@@ -1,0 +1,32 @@
+nav {
+    font-size: 27px;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    background-color: #adff2f;
+    margin: 0;
+    padding: 10px 0;
+
+}
+
+.style3 {
+    color: black;
+    font-size: 25px;
+}
+
+.style4 {
+    color: white;
+    font-size: 25px;
+}
+
+.style5 {
+    font-size: 20px;
+    text-align: center;
+    /* color: beige; */
+}
+.style6{
+    text-align: center;
+}
+.style7{
+    font-size: 25px;
+    text-align: center;
+}
