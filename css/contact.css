@@ -7,6 +7,69 @@ body {
   padding: 20px;
   border-radius: 10px;
   text-align: center;
-  margin-left: 100px;
-  margin-right: 100px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.contact-section {
+  padding: 15px;
+}
+
+fieldset {
+  border: 2px solid #ddd;
+  border-radius: 10px;
+  padding: 15px;
+}
+
+.form-title {
+  font-size: 18px;
+  font-weight: bold;
+  padding: 0 10px;
+}
+
+.contact-form {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+label {
+  font-size: 14px;
+  font-weight: 600;
+}
+
+input,
+textarea {
+  width: 100%;
+  padding: 10px;
+  font-size: 14px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+}
+
+textarea {
+  resize: none;
+}
+
+button {
+  padding: 12px;
+  font-size: 16px;
+  background-color: #ff6f61;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #e85b50;
+}
+.formm{
+  font-size: 25px;
+  text-transform: uppercase;
+  text-decoration: underline;
 }
