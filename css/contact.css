@@ -1,0 +1,12 @@
+body {
+  background-color: bisque;
+}
+
+.form {
+  border: 2px solid #131213;
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center;
+  margin-left: 100px;
+  margin-right: 100px;
+}

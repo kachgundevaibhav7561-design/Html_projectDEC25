@@ -1,6 +1,10 @@
 footer{
     background-color:#ffb6c1; 
     text-align:center;
-     padding:15px
+     padding:15px;
+     line-height: 25px;
 
+}
+.mark{
+    direction: rtl;
 }

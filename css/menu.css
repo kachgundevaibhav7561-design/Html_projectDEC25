@@ -1,0 +1,59 @@
+.t_align {
+    text-align: center;
+}
+
+.t_font {
+    font-size: 20px;
+}
+
+.t_color {
+    color: chocolate;
+}
+
+.t_color_ {
+    color: rgb(226, 162, 43);
+    font-size: 20px;
+
+}
+
+.t_shadow {
+    text-shadow: 12px 13px 34px 12px;
+}
+
+/* .marquee-text {
+    white-space: nowrap;
+    overflow: hidden;
+    animation: move 10s linear infinite;
+    font-size: 18px;
+    color: rgb(226, 162, 43);
+} */
+
+
+
+@keyframes move {
+    0% {
+        transform: translateX(100%);
+    }
+
+    100% {
+        transform: translateX(-100%);
+    }
+}
+
+@media (max-width: 768px) {
+    h1 {
+        font-size: 22px;
+    }
+
+    h2 {
+        font-size: 18px;
+    }
+
+    p {
+        font-size: 15px;
+    }
+
+    table {
+        font-size: 14px;
+    }
+}
