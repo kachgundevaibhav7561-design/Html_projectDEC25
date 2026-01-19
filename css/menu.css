@@ -28,8 +28,6 @@
     color: rgb(226, 162, 43);
 } */
 
-
-
 @keyframes move {
     0% {
         transform: translateX(100%);
