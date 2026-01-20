@@ -11,6 +11,7 @@
 .style5 {
     font-size: 20px;
     text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     /* color: beige; */
 }
 
@@ -29,4 +30,31 @@
 .carousel-item img {
     max-height: 450px;
     object-fit: cover;
+}
+
+.styl6:hover {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 2px solid red;
+    padding: 10px;
+    background-color: white;
+    color: black;
+    background: radial-gradient(orange, lightgreen, yellow);
+}
+
+.style55 {
+    font-size: 20px;
+    border: 2px solid black;
+    margin-top: 5px;
+    padding: 20px 15px 20px 15px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.style55:hover{
+    font-size: 20px;
+    border: 2px solid black;
+    margin-top: 5px;
+    padding: 20px 15px 20px 15px;
+    font-family: 'Times New Roman', Times, serif;
+    background: linear-gradient(yellow,lightgreen, aqua);
+
 }

@@ -68,8 +68,22 @@ button {
 button:hover {
   background-color: #e85b50;
 }
-.formm{
+
+.formm {
   font-size: 25px;
   text-transform: uppercase;
   text-decoration: underline;
+}
+
+/* .style7:hover{
+  background-color: yellowgreen;
+  background: linear-gradient(green, orange);
+   
+} */
+.sty11:hover {
+  border: 2px solid black;
+  background: radial-gradient(white,  aqua);
+  transform: scale(1);
+  margin: 50px 10px 50px 10px;
+
 }

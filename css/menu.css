@@ -19,6 +19,13 @@
 .t_shadow {
     text-shadow: 12px 13px 34px 12px;
 }
+.sty1:hover{
+    background-color: white;
+    color: black;
+    background: radial-gradient(orange, lightgreen, yellow);
+
+}
+
 
 /* .marquee-text {
     white-space: nowrap;
